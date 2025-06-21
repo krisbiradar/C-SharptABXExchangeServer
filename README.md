@@ -12,7 +12,7 @@ A C# client application that connects to the ABX exchange server to retrieve sto
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/krisbiradar/C-SharptABXExchangeServer
+git clone https://github.com/krisbiradar/.NetABXExchangeClient
 cd ABXExchangeClient
 ```
 
