@@ -86,7 +86,7 @@ The client includes robust error handling for:
 
 ```
 ABXExchangeClient/
-├── ABXExchangeClient.csproj
+├── ConsoleApp8.csproj
 ├── Program.cs
 ├── README.md
 └── abx_data_*.json (generated output files)
