@@ -255,6 +255,7 @@ namespace ABXExchangeClient
 
         static async Task Main(string[] args)
         {
+            Console.Clear();
             var client = new ABXClient();
             var packets = await client.GetAllPacketsAsync();
 
